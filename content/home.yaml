@@ -1,0 +1,43 @@
+hero:
+  title: The *building* blocks for the *easyScience* universe
+  description: >-
+    **easyCore** is the foundation of the **easyScience** universe, providing
+    the building blocks for libraries and applications which make
+    scientific data simulation and analysis easier.
+  poster: assets/img/hero_light.png
+
+features:
+  - icon: icon-open-source
+    title: Free and open-source
+    description: >-
+      Anyone is free to use **easyCore** and the source code is openly shared
+      on GitHub.
+  - icon: icon-cross-platform
+    title: Cross-platform
+    description: >-
+      **easyCore** is written in Python and available for all platforms.
+  - icon: fas fa-boxes
+    title: Various techniques
+    description: >-
+      **easyCore** has been used to build various libraries such as
+      [**easyDiffraction**](https://easydiffraction.org) and
+      [**easyReflectometry**](https://easyreflectometry.org).
+  - icon: fas fa-dumbbell
+    title: Advanced built-in features
+    description: >-
+      **easyCore** provides features such as model minimization, automatic
+      script generation, undo/redo, and more.
+
+contact:
+  - icon: fas fa-question-circle
+    title: General questions
+    description: >-
+      For general questions or comments, please contact us at
+      [core@easyscience.software](mailto:core@easyscience.software), or fill
+      out the form.
+  - icon: fas fa-bug
+    title: Issues and new features
+    description: >-
+      For bug reports and feature requests, please use
+      [GitHub Issue Tracker](https://github.com/easyscience/easycore/issues)
+      instead (free registration required).

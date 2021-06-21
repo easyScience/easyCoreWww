@@ -1,0 +1,12 @@
+project:
+  title: easyCore
+  icon: icon-easycore
+  url: https://core.easyscience.software
+  year: 2021
+links:
+  - url: https://github.com/easyscience/easycore/releases
+    text: Release Notes
+  - url: https://raw.githubusercontent.com/easyscience/easycore/master/LICENSE.md
+    text: EULA
+  - url: https://github.com/easyscience/easycore
+    icon: icon-github
