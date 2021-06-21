@@ -1,0 +1,19 @@
+<svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="a" gradientUnits="userSpaceOnUse" cx="152.29" cy="126.9" r="330" gradientTransform="matrix(.63847 -1.09184 1.0973 .64166 52.73 218.43)">
+      <stop offset="0" stop-color="#00aaed"/>
+      <stop offset="1" stop-color="#0091ca"/>
+    </radialGradient>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="330" y1="0" x2="330" y2="660" gradientTransform="matrix(.98074 -.1953 .19575 .98303 -58.66 70.7)">
+      <stop offset="0" stop-color="#98e2ff"/>
+      <stop offset="1" stop-color="#4ec1ef"/>
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1.5 0 0 1.5 17 17)">
+    <circle cx="330" cy="330" r="330" fill="url(#a)" stroke="url(#b)" stroke-width="20"/>
+    <path stroke-miterlimit="2" d="M24.67 330L330 24.67 635.33 330 330 635.33z" stroke-width="20.67" stroke="#e0f2fe" fill="#0284c7"/>
+    <path stroke-miterlimit="2" d="M545.94 114.06v431.8h-431.8v-431.8z" stroke-width="20" stroke="#e0f2fe" fill="#38bdf8"/>
+    <circle cx="330" cy="330" r="195.67" stroke-miterlimit="1.11" stroke-width="20" fill="#e0f2fe" stroke="#bae6fd"/>
+    <circle cx="328.34" cy="331.66" r="108.12" stroke-miterlimit="1.11" stroke-width="20" fill="#0284c7" stroke="#bae6fd"/>
+  </g>
+</svg>
