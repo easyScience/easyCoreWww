@@ -12,7 +12,7 @@ features:
     description: >-
       Anyone is free to use **easyCore** and the source code is openly shared
       on GitHub.
-  - icon: icon-cross-platform
+  - icon: icon-multiple-devices
     title: Cross-platform
     description: >-
       **easyCore** is written in Python and available for all platforms.
