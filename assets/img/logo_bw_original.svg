@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.5 0 0 1.5 17 17)">
+    <path d="M 671.333 330 A 341.333 341.333 0 0 1 330 671.333 A 341.333 341.333 0 0 1 -11.333 330 A 341.333 341.333 0 0 1 330 -11.333 A 341.333 341.333 0 0 1 671.333 330 Z" stroke-width="20" style=""/>
+    <path stroke-miterlimit="2" d="M 30 330 L 330 30 L 630 330 L 330 630 Z" style="stroke: rgb(255, 255, 255); stroke-width: 30px;"/>
+    <path stroke-miterlimit="2" d="M 540 120 L 540 540 L 120 540 L 120 120 Z" style="stroke: rgb(255, 255, 255); stroke-width: 30px;"/>
+    <path d="M 500 330 C 500 423.888 423.888 500 330 500 C 236.112 500 160 423.888 160 330 C 160 236.112 236.112 160 330 160 C 423.888 160 500 236.112 500 330 Z" stroke-miterlimit="1.11" stroke-width="20" style="fill: rgb(255, 255, 255);"/>
+    <path d="M 436.46 331.66 A 108.12 108.12 0 0 1 328.34 439.78 A 108.12 108.12 0 0 1 220.22 331.66 A 108.12 108.12 0 0 1 328.34 223.54 A 108.12 108.12 0 0 1 436.46 331.66 Z" stroke-miterlimit="1.11" stroke-width="20" style=""/>
+  </g>
+</svg>
