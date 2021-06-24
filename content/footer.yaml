@@ -9,4 +9,4 @@ links:
   - url: https://raw.githubusercontent.com/easyscience/easycore/master/LICENSE.md
     text: EULA
   - url: https://github.com/easyscience/easycore
-    icon: icon-github
+    icon: fab fa-github
