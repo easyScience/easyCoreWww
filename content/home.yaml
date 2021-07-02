@@ -4,6 +4,9 @@ hero:
     **easyCore** is the foundation of the **easyScience** universe, providing
     the building blocks for libraries and applications which make
     scientific data simulation and analysis easier.
+  release:
+    version: 0.1.1
+    date: 2021-07-02
   poster: assets/img/hero_light.png
 
 features:
