@@ -8,5 +8,7 @@ links:
     text: Release Notes
   - url: https://raw.githubusercontent.com/easyscience/easycore/master/LICENSE.md
     text: EULA
+  - url: https://easyscience.github.io/easyCore
+    text: Documentation
   - url: https://github.com/easyscience/easycore
     icon: fab fa-github

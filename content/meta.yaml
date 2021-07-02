@@ -1,5 +1,6 @@
-url: https://easyscience.software
-title: Making scientific data analysis and modelling easy
+url: https://core.easyscience.software
+title: The building blocks for the easyScience universe
 description: >-
-  A Python/QML framework for data analysis being developed to speed-up the time
-  from data collection to publication.
+  easyCore is the foundation of the easyScience universe, providing the building
+  blocks for libraries and applications which make scientific data simulation
+  and analysis easier.
